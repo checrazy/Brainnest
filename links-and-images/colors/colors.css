@@ -1,0 +1,19 @@
+.color1 {
+    Color:red;
+}
+
+.color2 {
+    color:#0000FF ;
+}
+
+.color3{
+    color: rgb(0,255,0);
+}
+
+.color4{
+    color: hsl(275, 86%, 36%) ;
+}
+
+body {
+    background-color: lightblue;
+}
